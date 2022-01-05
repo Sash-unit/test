@@ -3,4 +3,5 @@ public class Human {
     private int weight;
     private int height;
     private String sex;
+    private String name;
 }
