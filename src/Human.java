@@ -5,4 +5,6 @@ public class Human {
 
     public void foo() {
     }
+    public void boo() {
+    }
 }
